@@ -2,6 +2,8 @@
 
 ## Saranya Sampath Submission -- saranyas
 
+Here is the link to the project online: https://saranyacodes.github.io/CIS599_HW02/
+
 For this project, my inspiration came from the Pokemon Stadium stage from the video game Super Smash Bros. The reference image can be found here: https://www.ssbwiki.com/images/thumb/7/73/SSBU-Pok%C3%A9mon_Stadium.png/1200px-SSBU-Pok%C3%A9mon_Stadium.png
 
 I created the pokemon Pikachu and Pichu on this stage. I did this through using SDFs and operations such as union and smooth blend. I was able to create the pokeball on the stage by using operations like subtraction.
